@@ -17,7 +17,6 @@ if (rad > 0 && choice == 0) {
 } else {
   console.log(`Please enter valid value.`);
 }
-
 // const http = require("http");
 
 // const server = http.createServer((req, res) => {
