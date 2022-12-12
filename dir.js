@@ -1,1 +1,1 @@
-console.log(global.__dirname);
+console.log(global.process.env.PWD);
